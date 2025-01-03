@@ -26,4 +26,4 @@
    
 2. **Click play** to start the simulation.
    
-3. **Watch the simulation!** Note that the rabbits change color depending on the color of the ground, who does not stop changing.
+3. **Watch the simulation!** Note that the "bunnies" change color depending on the color of the ground, who does not stop changing.
